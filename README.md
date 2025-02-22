@@ -30,7 +30,8 @@ El proyecto se encuentra finalizado y esta disponible para ser usado por los usu
 
 ## Acceso al proyecto
 
-Puedes acceder a la aplicacion a traves del siguiente enlace:
+Puedes acceder a la aplicacion clonando el repositorio: https://github.com/gerardo9811/challenge-amigo-secreto.git
+
 
 ## TECNOLOGIAS UTILIZADAS
 
