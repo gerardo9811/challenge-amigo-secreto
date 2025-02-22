@@ -1,8 +1,8 @@
 <h1><center></center>"Mi Amigo Secreto"</center> </h1>
 
-- [Descripcion del Proyecto](#descripcion-del-proyecto)
+-[Descripcion del Proyecto](#descripcion-del-proyecto)
 
-- [Estado del proyecto](#Estado-proyecto)
+-[Estado del proyecto](#Estado-proyecto)
 
 - [Funcionalidades del proyecto](#Funcionalidades-proyecto)
 
